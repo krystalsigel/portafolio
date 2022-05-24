@@ -2,7 +2,7 @@
 
 ## Link github.io
 
-- (https://paulamontiel.github.io/desafiogit-gitpages/)
+- (https://krystalsigel.github.io/portafolio/)
 
 ### Repositorios forkeados y sus respectivos links
 
