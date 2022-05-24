@@ -92,4 +92,8 @@ body {
   .carouseltext{
       font-family: 'Comfortaa', cursive;
     }
-  
+  .btn-oli {
+      background-color: #ccb362;
+      border: 0.5px; 
+      border-radius: 5px; 
+  }
