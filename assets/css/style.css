@@ -89,3 +89,7 @@ body {
     transition: transform 0.6s ease-in-out;
     transition: transform 0.6s ease-in-out, -webkit-transform 0.6s ease-in-out;
   }
+  .carouseltext{
+      font-family: 'Comfortaa', cursive;
+    }
+  
